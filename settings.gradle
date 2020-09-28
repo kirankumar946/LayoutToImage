@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "ConvertingImageToLayout"
+rootProject.name = "LayoutToImage"
