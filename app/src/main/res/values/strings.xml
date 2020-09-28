@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ConvertingImageToLayout</string>
+    <string name="convert_layout_to_image">Convert Layout to Image</string>
+    <string name="filepath">FilePath</string>
+</resources>
